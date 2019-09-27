@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lucida Sans';
+    font-weight: normal;
+    font-style: normal;
+    src: url(assets/fonts/LucidaSansItalic.ttf);
+}
+@font-face {
+    font-family: 'Segoe WP';
+    font-weight: normal;
+    font-style: normal;
+    src: url(assets/fonts/SegoeWP.ttf);
+}
