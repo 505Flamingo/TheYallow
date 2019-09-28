@@ -2,11 +2,26 @@
     font-family: 'Lucida Sans';
     font-weight: normal;
     font-style: normal;
-    src: url(assets/fonts/LucidaSansItalic.ttf);
+    src: url(fonts/LucidaSansItalic.ttf);
 }
+
 @font-face {
     font-family: 'Segoe WP';
     font-weight: normal;
     font-style: normal;
-    src: url(assets/fonts/SegoeWP.ttf);
+    src: url(fonts/SegoeWP.ttf);
+}
+
+@font-face {
+    font-family: 'Asap Regular';
+    font-weight: normal;
+    font-style: normal;
+    src: url(fonts/Asap-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Segoe UI Light';
+    font-weight: normal;
+    font-style: normal;
+    src: url(fonts/SegoeUI-Light.ttf);
 }
