@@ -120,7 +120,7 @@ video {
     align-items: center;
     padding: 15px 0 0 43px;
     text-transform: uppercase;
-    font-family: 'Asap Reguslar', AdobeInvisFont, MyriadPro-Regular;
+    font-family: 'Asap Regular';
     font-size: 63px;
     color: #FFFFFF;
     line-height: 1.2;
@@ -151,6 +151,10 @@ video {
     text-transform: uppercase;
     font-family: 'Segoe UI Light';
     font-size: 27px;
+}
+
+.img-div {
+    height: 150px; 
 }
 
 .adv-img-1 img {
@@ -184,4 +188,9 @@ video {
 
 .adv p {
     margin-top: 15px;
+}
+
+.description {
+    background: url(assets/img/background_yellow.png);
+    padding: 31px 105px 17px;
 }
